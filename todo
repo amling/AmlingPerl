@@ -1,0 +1,3 @@
+better ping, maybe wrap ping?
+    in particular: moving average packet loss
+    oooh, maybe differential, e.g.  internet vs. local router (to try to isolate where the loss is)
